@@ -1,4 +1,4 @@
-# <UIN>_NLP Experiments
+# 231A011_NLP Experiments
 
 This repository serves as the **master index** for all Natural Language Processing (NLP) laboratory experiments conducted as part of the AIDS Sem 7 curriculum, in compliance with the Department's GitHub-Based Laboratory Documentation System.
 
