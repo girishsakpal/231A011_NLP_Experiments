@@ -2,6 +2,22 @@
 
 This repository serves as the **master index** for all Natural Language Processing (NLP) laboratory experiments conducted as part of the AIDS Sem 7 curriculum, in compliance with the Department's GitHub-Based Laboratory Documentation System.
 
+## 🔗 List of Experiments
+
+| Exp. No. | Title | Repository Link |
+|---|---|---|
+| 01 | `Formulate Mini Project Problem Statement.` | [AIDS_Sem7_NLP_Experiment01](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment01) |
+| 02 | `Text Preprocessing Techniques - Tokenization and Filtration.` | [AIDS_Sem7_NLP_Experiment02](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment02) |
+| 03 | `Stop Word Removal, Lemmatization, and Stemming` | [AIDS_Sem7_NLP_Experiment03](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment03) |
+
+<!-- | 04 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment04](<repo-link>) |
+| 05 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment05](<repo-link>) |
+| 06 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment06](<repo-link>) |
+| 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) |
+| 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) |
+| 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) |
+| 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | -->
+
 ## 👤 Student Details
 
 | Field | Details |
@@ -29,25 +45,6 @@ Every individual experiment repository contains:
 - Output screenshots / results
 - `README.md` (Aim, Problem Statement, Theory, Implementation, Results, Conclusion, References)
 - `requirements.txt` (if applicable)
-
-## 🔗 List of Experiments
-
-| Exp. No. | Title | Repository Link |
-|---|---|---|
-| 01 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment01](<repo-link>) |
-| 02 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment02](<repo-link>) |
-
-
-<!-- | 01 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment01](<repo-link>) |
-| 02 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment02](<repo-link>) |
-| 03 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment03](<repo-link>) |
-| 04 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment04](<repo-link>) |
-| 05 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment05](<repo-link>) |
-| 06 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment06](<repo-link>) |
-| 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) |
-| 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) |
-| 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) |
-| 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | -->
 
 
 ## 📌 Academic Integrity
