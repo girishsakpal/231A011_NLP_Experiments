@@ -9,6 +9,7 @@ This repository serves as the **master index** for all Natural Language Processi
 | 01 | `Formulate Mini Project Problem Statement.` | [AIDS_Sem7_NLP_Experiment01](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment01) |
 | 02 | `Text Preprocessing Techniques - Tokenization and Filtration.` | [AIDS_Sem7_NLP_Experiment02](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment02) |
 | 03 | `Stop Word Removal, Lemmatization, and Stemming` | [AIDS_Sem7_NLP_Experiment03](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment03) |
+| 07 A | `Chunking` | [AIDS_Sem7_NLP_Experiment07_Part1](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part1) |
 | 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) |
 
 <!-- | 04 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment04](<repo-link>) |
