@@ -4,21 +4,22 @@ This repository serves as the **master index** for all Natural Language Processi
 
 ## 🔗 List of Experiments
 
-| Exp. No. | Title | Repository Link |
-|---|---|---|
-| 01 | `Formulate Mini Project Problem Statement.` | [AIDS_Sem7_NLP_Experiment01](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment01) |
-| 02 | `Text Preprocessing Techniques - Tokenization and Filtration.` | [AIDS_Sem7_NLP_Experiment02](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment02) |
-| 03 | `Stop Word Removal, Lemmatization, and Stemming` | [AIDS_Sem7_NLP_Experiment03](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment03) |
-| 07 A | `Chunking` | [AIDS_Sem7_NLP_Experiment07_Part1](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part1) |
-| 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) |
+| Exp. No. | Title | Repository Link | Performed Date |
+|---|---|---|---|
+| 01 | `Formulate Mini Project Problem Statement.` | [AIDS_Sem7_NLP_Experiment01](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment01) | 13/07/2026 |
+| 02 | `Text Preprocessing Techniques - Tokenization and Filtration.` | [AIDS_Sem7_NLP_Experiment02](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment02) | 13/07/2026 |
+| 03 | `Stop Word Removal, Lemmatization, and Stemming` | [AIDS_Sem7_NLP_Experiment03](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment03) | 27/07/2026 |
+| 04 | `Morphological Analysis and Word Generation ` | [AIDS_Sem7_NLP_Experiment04](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment04) | 13/08/2026 |
+| 07 A | `Chunking` | [AIDS_Sem7_NLP_Experiment07_Part1](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part1) | 03/08/2026 |
+| 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) | 03/08/2026 |
 
-<!-- | 04 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment04](<repo-link>) |
-| 05 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment05](<repo-link>) |
-| 06 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment06](<repo-link>) |
-| 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) |
-| 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) |
-| 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) |
-| 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | -->
+<!-- 
+| 05 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment05](<repo-link>) | date |
+| 06 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment06](<repo-link>) | date |
+| 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) | date |
+| 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) | date |
+| 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) | date |
+| 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | date | -->
 
 ## 👤 Student Details
 
