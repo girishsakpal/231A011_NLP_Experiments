@@ -11,11 +11,12 @@ This repository serves as the **master index** for all Natural Language Processi
 | 03 | `Stop Word Removal, Lemmatization, and Stemming` | [AIDS_Sem7_NLP_Experiment03](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment03) | 27/07/2026 |
 | 04 | `Morphological Analysis and Word Generation ` | [AIDS_Sem7_NLP_Experiment04](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment04) | 13/08/2026 |
 | 05 | `N-Gram Model Implementation` | [AIDS_Sem7_NLP_Experiment05](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment05) | 31/08/2026 |
+| 06 | `POS Tagging` | [AIDS_Sem7_NLP_Experiment06](<https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment06>) | 07/09/2026 |
 | 07 A | `Chunking` | [AIDS_Sem7_NLP_Experiment07_Part1](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part1) | 03/08/2026 |
 | 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) | 03/08/2026 |
 
 <!-- 
-| 06 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment06](<repo-link>) | date |
+
 | 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) | date |
 | 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) | date |
 | 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) | date |
