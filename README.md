@@ -14,11 +14,12 @@ This repository serves as the **master index** for all Natural Language Processi
 | 06 | `POS Tagging` | [AIDS_Sem7_NLP_Experiment06](<https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment06>) | 07/09/2026 |
 | 07 A | `Chunking` | [AIDS_Sem7_NLP_Experiment07_Part1](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part1) | 03/08/2026 |
 | 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) | 03/08/2026 |
+| 08 | `Text Similarity Recognition` | [AIDS_Sem7_NLP_Experiment08](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment08) | 22/07/2026 |
 
 <!-- 
 
 | 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) | date |
-| 08 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment08](<repo-link>) | date |
+
 | 09 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment09](<repo-link>) | date |
 | 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | date | -->
 
