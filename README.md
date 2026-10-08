@@ -16,11 +16,12 @@ This repository serves as the **master index** for all Natural Language Processi
 | 07 B | `Named Entity Recognition (NER)` | [AIDS_Sem7_NLP_Experiment07_Part2](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment07_Part2) | 03/08/2026 |
 | 08 | `Text Similarity Recognition` | [AIDS_Sem7_NLP_Experiment08](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment08) | 22/07/2026 |
 | 09 | `Word Sense Disambiguation (WSD)` | [AIDS_Sem7_NLP_Experiment09](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment09) | 29/09/2026 |
+| 10 | `Exploratory Data Analysis (EDA)` | [AIDS_Sem7_NLP_Experiment10](https://github.com/girishsakpal/AIDS_Sem7_NLP_Experiment10) | 08/10/2026 |
 
 <!-- 
 
 | 07 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment07](<repo-link>) | date |
-| 10 | `<Experiment Title>` | [AIDS_Sem7_NLP_Experiment10](<repo-link>) | date | -->
+ -->
 
 ## 👤 Student Details
 
